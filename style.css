@@ -27,7 +27,11 @@ main {
 main img {
   display: block;
   width: 100%;
-  max-width: 768px;
+  max-width: 384px;
+}
+
+main h1 {
+  font-size: 1.125rem;
 }
 
 main a {
